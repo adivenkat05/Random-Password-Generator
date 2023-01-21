@@ -14,11 +14,15 @@ sudo apt install python3
 ## To execute the above program in bash terminal.    
 
 ```
-$ git clone https://github.com/adivenkat05/Random-Password-Generator.git
+git clone https://github.com/adivenkat05/Random-Password-Generator.git
 
-$ cd Random-Password-Generator
+cd Random-Password-Generator
 
-$ python3 passwordGenerator.py 
+python3 passwordGenerator.py 
+```
+OR
+```
+git clone https://github.com/adivenkat05/Random-Password-Generator.git && cd Random-Password-Generator && python3 passwordGenerator.py
 ```
 
 
