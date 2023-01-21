@@ -4,7 +4,14 @@ Python based password generator which can be used as a password for any applicat
 
 Generates random string that can be used as a password. 
 
-## To execute the above program in bash terminal
+### Make sure you have installed python in your device.
+
+Enter this command in terminal to install python.
+```
+sudo apt install python3
+```
+
+## To execute the above program in bash terminal.    
 
 ```
 $ git clone https://github.com/adivenkat05/Random-Password-Generator.git
