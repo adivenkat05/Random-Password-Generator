@@ -20,7 +20,7 @@ cd Random-Password-Generator
 
 python3 passwordGenerator.py 
 ```
-OR
+ OR
 ```
 git clone https://github.com/adivenkat05/Random-Password-Generator.git && cd Random-Password-Generator && python3 passwordGenerator.py
 ```
